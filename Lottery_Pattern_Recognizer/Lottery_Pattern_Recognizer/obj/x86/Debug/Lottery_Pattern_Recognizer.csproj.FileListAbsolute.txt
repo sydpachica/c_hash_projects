@@ -1,0 +1,17 @@
+c:\users\pachica\documents\visual studio 2010\Projects\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\bin\Debug\Lottery_Pattern_Recognizer.exe
+c:\users\pachica\documents\visual studio 2010\Projects\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\bin\Debug\Lottery_Pattern_Recognizer.pdb
+c:\users\pachica\documents\visual studio 2010\Projects\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\obj\x86\Debug\Lottery_Pattern_Recognizer.Form1.resources
+c:\users\pachica\documents\visual studio 2010\Projects\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\obj\x86\Debug\Lottery_Pattern_Recognizer.Properties.Resources.resources
+c:\users\pachica\documents\visual studio 2010\Projects\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\obj\x86\Debug\Lottery_Pattern_Recognizer.csproj.GenerateResource.Cache
+c:\users\pachica\documents\visual studio 2010\Projects\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\obj\x86\Debug\Lottery_Pattern_Recognizer.exe
+c:\users\pachica\documents\visual studio 2010\Projects\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\obj\x86\Debug\Lottery_Pattern_Recognizer.pdb
+C:\Users\pachica\documents\visual studio 2010\Projects\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\obj\x86\Debug\Lottery_Pattern_Recognizer.csprojResolveAssemblyReference.cache
+D:\Temp Folder\Freelance Project\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\bin\Debug\Lottery_Pattern_Recognizer.exe
+D:\Temp Folder\Freelance Project\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\bin\Debug\Lottery_Pattern_Recognizer.pdb
+D:\Temp Folder\Freelance Project\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\obj\x86\Debug\Lottery_Pattern_Recognizer.csprojAssemblyReference.cache
+D:\Temp Folder\Freelance Project\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\obj\x86\Debug\Lottery_Pattern_Recognizer.Form1.resources
+D:\Temp Folder\Freelance Project\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\obj\x86\Debug\Lottery_Pattern_Recognizer.Properties.Resources.resources
+D:\Temp Folder\Freelance Project\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\obj\x86\Debug\Lottery_Pattern_Recognizer.csproj.GenerateResource.cache
+D:\Temp Folder\Freelance Project\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\obj\x86\Debug\Lottery_Pattern_Recognizer.csproj.CoreCompileInputs.cache
+D:\Temp Folder\Freelance Project\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\obj\x86\Debug\Lottery_Pattern_Recognizer.exe
+D:\Temp Folder\Freelance Project\Lottery_Pattern_Recognizer\Lottery_Pattern_Recognizer\obj\x86\Debug\Lottery_Pattern_Recognizer.pdb
